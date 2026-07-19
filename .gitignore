@@ -1,0 +1,10 @@
+.venv/
+downloads/
+out.csv
+out.jsonl
+pharmacy_curriculum.json
+pharmacy_curriculum.csv
+__pycache__/
+*.tmp
+*.log
+.env

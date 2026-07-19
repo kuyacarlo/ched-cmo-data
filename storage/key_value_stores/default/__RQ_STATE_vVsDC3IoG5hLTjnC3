@@ -1,0 +1,12 @@
+{
+  "sequence_counter": 10,
+  "forefront_sequence_counter": 0,
+  "forefront_requests": {},
+  "regular_requests": {
+    "https://ched.gov.ph/2024-ched-memorandum-orders": 9
+  },
+  "in_progress_requests": [],
+  "handled_requests": [
+    "https://ched.gov.ph/2024-ched-memorandum-orders"
+  ]
+}
