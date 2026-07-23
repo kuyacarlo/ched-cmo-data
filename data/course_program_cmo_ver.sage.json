@@ -1,0 +1,2179 @@
+[
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "MATH101",
+    "course_title": "Calculus 1",
+    "competency_tags": [
+      "calculus",
+      "limits",
+      "differentiation"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "CHEM101",
+    "course_title": "Chemistry for Engineers",
+    "competency_tags": [
+      "chemistry",
+      "engineering science"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "CPE100",
+    "course_title": "Computer Engineering as a Discipline",
+    "competency_tags": [
+      "computer engineering",
+      "profession"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "CPE101",
+    "course_title": "Programming Logic and Design",
+    "competency_tags": [
+      "programming",
+      "logic",
+      "algorithms"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "GEC101",
+    "course_title": "Mathematics in the Modern World",
+    "competency_tags": [
+      "mathematics",
+      "modern world"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "GEC102",
+    "course_title": "Science, Technology, and Society",
+    "competency_tags": [
+      "science",
+      "technology",
+      "society"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "GEC103",
+    "course_title": "Understanding the Self",
+    "competency_tags": [
+      "psychology",
+      "self"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "PE101",
+    "course_title": "Physical Education 1",
+    "competency_tags": [
+      "physical education"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 1,
+    "course_code": "NSTP101",
+    "course_title": "National Service Training Program 1",
+    "competency_tags": [
+      "nstp",
+      "national service"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "MATH102",
+    "course_title": "Calculus 2",
+    "competency_tags": [
+      "calculus",
+      "integration"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "PHYS101",
+    "course_title": "Physics for Engineers",
+    "competency_tags": [
+      "physics",
+      "mechanics"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "CPE102",
+    "course_title": "Object Oriented Programming",
+    "competency_tags": [
+      "oop",
+      "programming"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "MATH103",
+    "course_title": "Engineering Data Analysis",
+    "competency_tags": [
+      "statistics",
+      "data analysis"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "MATH104",
+    "course_title": "Discrete Mathematics",
+    "competency_tags": [
+      "discrete math",
+      "logic"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "GEC104",
+    "course_title": "Readings in Philippine History",
+    "competency_tags": [
+      "philippine history"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "PE102",
+    "course_title": "Physical Education 2",
+    "competency_tags": [
+      "physical education"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 1,
+    "semester": 2,
+    "course_code": "NSTP102",
+    "course_title": "National Service Training Program 2",
+    "competency_tags": [
+      "nstp",
+      "national service"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "MATH201",
+    "course_title": "Differential Equations",
+    "competency_tags": [
+      "differential equations",
+      "modeling"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "GEC201",
+    "course_title": "Art Appreciation",
+    "competency_tags": [
+      "art",
+      "appreciation"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "CPE201",
+    "course_title": "Data Structures and Algorithms",
+    "competency_tags": [
+      "data structures",
+      "algorithms"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "ENGR201",
+    "course_title": "Engineering Economics",
+    "competency_tags": [
+      "economics",
+      "engineering management"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "CPE202",
+    "course_title": "Fundamentals of Electrical Circuits",
+    "competency_tags": [
+      "circuits",
+      "electrical"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "elective",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "GEC202",
+    "course_title": "GEC Elective 1",
+    "competency_tags": [
+      "general education",
+      "elective"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "ENGR202",
+    "course_title": "Computer-Aided Drafting",
+    "competency_tags": [
+      "cad",
+      "drafting"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 2,
+    "semester": 1,
+    "course_code": "PE201",
+    "course_title": "Physical Education 3",
+    "competency_tags": [
+      "physical education"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "shared_major",
+    "year_level": 2,
+    "semester": 2,
+    "course_code": "MATH202",
+    "course_title": "Numerical Methods",
+    "competency_tags": [
+      "numerical methods",
+      "algorithms"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 2,
+    "semester": 2,
+    "course_code": "CPE203",
+    "course_title": "Software Design",
+    "competency_tags": [
+      "software design",
+      "engineering"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 2,
+    "semester": 2,
+    "course_code": "GEC203",
+    "course_title": "Purposive Communication",
+    "competency_tags": [
+      "communication",
+      "writing"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 2,
+    "semester": 2,
+    "course_code": "CPE204",
+    "course_title": "Fundamentals of Electronic Circuits",
+    "competency_tags": [
+      "electronics",
+      "circuits"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 2,
+    "semester": 2,
+    "course_code": "GEC204",
+    "course_title": "Life and Works of Rizal",
+    "competency_tags": [
+      "rizal",
+      "philippine history"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 2,
+    "semester": 2,
+    "course_code": "PE202",
+    "course_title": "Physical Education 4",
+    "competency_tags": [
+      "physical education"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 2,
+    "semester": 2,
+    "course_code": "GEC205",
+    "course_title": "The Contemporary World",
+    "competency_tags": [
+      "globalization",
+      "society"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE301",
+    "course_title": "Logic Circuits and Design",
+    "competency_tags": [
+      "digital logic",
+      "hdl"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE302",
+    "course_title": "Operating Systems",
+    "competency_tags": [
+      "operating systems"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE303",
+    "course_title": "Data and Digital Communications",
+    "competency_tags": [
+      "communications",
+      "signals"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE304",
+    "course_title": "Introduction to HDL",
+    "competency_tags": [
+      "hdl",
+      "verilog",
+      "vhdl"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE305",
+    "course_title": "Feedback and Control Systems",
+    "competency_tags": [
+      "control systems"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE306",
+    "course_title": "Fundamentals of Mixed Signals and Sensors",
+    "competency_tags": [
+      "sensors",
+      "mixed signal"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE307",
+    "course_title": "Computer Engineering Drafting and Design",
+    "competency_tags": [
+      "drafting",
+      "design"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "elective",
+    "year_level": 3,
+    "semester": 1,
+    "course_code": "CPE308",
+    "course_title": "Cognate / Elective Course 1",
+    "competency_tags": [
+      "cognate",
+      "elective"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "CPE309",
+    "course_title": "Basic Occupational Health and Safety",
+    "competency_tags": [
+      "safety",
+      "occupational health"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "CPE310",
+    "course_title": "Computer Networks and Security",
+    "competency_tags": [
+      "networks",
+      "security"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "CPE311",
+    "course_title": "Microprocessors",
+    "competency_tags": [
+      "microprocessors",
+      "architecture"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "CPE312",
+    "course_title": "Methods of Research",
+    "competency_tags": [
+      "research",
+      "methods"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "CPE313",
+    "course_title": "Technopreneurship",
+    "competency_tags": [
+      "technopreneurship",
+      "startup"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "core_gened",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "GEC301",
+    "course_title": "Ethics",
+    "competency_tags": [
+      "ethics",
+      "values"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "CPE314",
+    "course_title": "CpE Laws and Professional Practice",
+    "competency_tags": [
+      "professional practice",
+      "laws"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "elective",
+    "year_level": 3,
+    "semester": 2,
+    "course_code": "CPE315",
+    "course_title": "Cognate / Elective Course 2",
+    "competency_tags": [
+      "cognate",
+      "elective"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 1,
+    "course_code": "CPE401",
+    "course_title": "Embedded Systems",
+    "competency_tags": [
+      "embedded systems"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 1,
+    "course_code": "CPE402",
+    "course_title": "Computer Architecture and Organization",
+    "competency_tags": [
+      "computer architecture"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 1,
+    "course_code": "CPE403",
+    "course_title": "Emerging Technologies in CpE",
+    "competency_tags": [
+      "emerging technologies"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 1,
+    "course_code": "CPE404",
+    "course_title": "CpE Practice and Design 1",
+    "competency_tags": [
+      "design project",
+      "capstone"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 1,
+    "course_code": "CPE405",
+    "course_title": "Digital Signal Processing",
+    "competency_tags": [
+      "dsp",
+      "signals"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "elective",
+    "year_level": 4,
+    "semester": 1,
+    "course_code": "GEC401",
+    "course_title": "GEC Elective 2",
+    "competency_tags": [
+      "general education",
+      "elective"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "elective",
+    "year_level": 4,
+    "semester": 1,
+    "course_code": "CPE406",
+    "course_title": "Cognate / Elective Course 3",
+    "competency_tags": [
+      "cognate",
+      "elective"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 2,
+    "course_code": "CPE407",
+    "course_title": "CpE Practice and Design 2",
+    "competency_tags": [
+      "design project",
+      "capstone"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 2,
+    "course_code": "CPE408",
+    "course_title": "Seminars and Fieldtrips",
+    "competency_tags": [
+      "seminars",
+      "fieldtrips"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "program_specific",
+    "year_level": 4,
+    "semester": 2,
+    "course_code": "CPE409",
+    "course_title": "On the Job Training",
+    "competency_tags": [
+      "ojt",
+      "internship"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  },
+  {
+    "program_code": "BSCPE",
+    "cmo_reference": "CMO No. 87, Series of 2017",
+    "academic_year": "AY 2018-2019",
+    "classification": "elective",
+    "year_level": 4,
+    "semester": 2,
+    "course_code": "GEC402",
+    "course_title": "GEC Elective 3",
+    "competency_tags": [
+      "general education",
+      "elective"
+    ],
+    "source": "ched_cmo",
+    "_provenance": {
+      "verified": false,
+      "inferred_fields": [
+        "course_code",
+        "classification",
+        "competency_tags"
+      ],
+      "cmo_grounded_fields": [
+        "year_level",
+        "semester",
+        "course_title",
+        "lec_hours",
+        "lab_hours",
+        "units",
+        "prerequisites",
+        "cmo_reference",
+        "cmo_ver"
+      ],
+      "review_notes": "course_code/classification/competency_tags are NOT in CMO 87; double-check before SAGE prod seed",
+      "cmo_ver": "2017-87",
+      "extraction_method": "canonical"
+    }
+  }
+]

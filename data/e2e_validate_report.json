@@ -1,0 +1,23 @@
+{
+  "row_count": 59,
+  "total_units": 166,
+  "years": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "unique_codes": true,
+  "min_units_ok": true,
+  "unverified_rows": 59,
+  "inferred_field_types": [
+    "classification",
+    "competency_tags",
+    "course_code"
+  ],
+  "warnings": [
+    "59/59 rows verified=false \u2014 review competency_tags/course_code/classification before SAGE prod seed",
+    "competency_tags are inferred \u2014 double-check",
+    "course_code are inferred stable IDs \u2014 not from CHED"
+  ]
+}

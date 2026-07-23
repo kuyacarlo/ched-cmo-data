@@ -1,4 +1,4 @@
-.PHONY: sync scrape export pipeline
+.PHONY: sync scrape export pipeline courses e2e test
 
 sync:
 	uv sync
@@ -11,4 +11,16 @@ scrape:
 export:
 	uv run python scripts/export_catalog.py
 
-pipeline: scrape export
+courses:
+	uv run python scripts/build_course_program_cmo_ver.py
+
+e2e:
+	uv run python scripts/e2e_pipeline.py
+
+e2e-full:
+	uv run python scripts/e2e_pipeline.py --full
+
+test:
+	uv run pytest tests/ -q
+
+pipeline: scrape export courses
