@@ -77,16 +77,3 @@ uv run pytest tests/test_course_program_cmo_ver.py
 ```
 
 Currently seeds **BSCpE / CMO 87 s.2017**. OCR noise remains — treat as draft corpus.
-
-## SAGE / course table
-
-Production BSCPE rows live in `data/course_program_cmo_ver.*` with provenance:
-- **CMO-grounded:** year/semester/title/units/prereqs
-- **Inferred (review before seed):** `course_code`, `classification`, `competency_tags`
-- All rows ship `verified=false` until audited — see `docs/DATA_QUALITY.md`
-
-```bash
-make e2e          # build courses + validate
-make e2e-full     # also re-scrape CHED index/PDFs (slow)
-make test
-```
