@@ -1,0 +1,238 @@
+# FIXTURE: Tesseract OCR of CMO 87 s.2017 BSCpE Program of Study pages 11-15
+# with light header/course-number corrections for deterministic unit tests.
+
+===== PAGE 11 =====
+11.2. Program of Study
+
+The institution may enrich the sample/model program of study
+depending on the needs of the industry, provided that all prescribed
+courses required in the curriculum outlines are offered and pre-
+requisites and co-requisites are complied with.
+
+The sample Program of Study listed below is meant for HEIs operating
+on a Semestral System. HEls with CHED approved trimester or quarter
+term systems may adjust their courses and course specifications
+accordingly to fit their delivery system, as long as the minimum
+requirements are still satisfied.
+
+The HEls are also encouraged to include other courses to fulfili their
+
+institutional outcomes, as long as the total units for the whole program
+shall not be less than 166 units, including P.E., and NSTP.
+
+SAMPLE SEMESTRAL PROGRAM OF STUDY
+
+FIRST YEAR
+1st year — 1st semester:
+c No. of Hours Units | PI isit
+ourses i rerequisites
+Lec | LabiField/Drafting |" auist
+Calculus 1 3 0 3
+Chemistry for Engineers 3 3 4
+Computer Engineering as a
+Paar 4 0 1
+
+Discipline
+Programming Logic and
+Design 6 6 2
+Mathematics for the Modern 3 0 3
+World
+Science, Technology, and
+Society 3 9 3
+Understanding the Self 3 ie) 3
+Physical Education 1 2 (e) 2
+NSTP 1 3 0 3
+
+TOTAL | 24 9 24
+
+PSG for BSCpE Page 11 of 22
+
+er BO
+
+i
+
+
+
+===== PAGE 12 =====
+1st year — 2nd semester
+
+Course: No. of Hours Units ‘Te requisit
+ourses Lec | Lab/Field/Drafting rerequisites
+Calculus 2 3 0 3 Calculus 1
+Physics for Engineers 3 3 4 Calculus 1
+Object Oriented . . .
+Programming 0 6 2 Programming Logic and Design
+Engineering Data Analysis 3 0 3 Calculus 1
+Discrete Mathematics 3 0 3 Calculus 1
+Readings in Philippine 3 0 3
+History |
+Physical Education 2 2 iY) 2 Physical Education 1
+NSTP 2 3 0 3 NSTP 1
+TOTAL | 20 9 23
+SECOND YEAR
+2nd year — 1st semester,
+Courses No. of Hours Units | Prerequisites
+Lec | Lab/Field/Drafting i
+Differential Equations 3 0 3 Calculus 2
+Art Appreciation 3 0 3
+. Object Oriented
+
+Data Structures and Algorithms 0 6 2 Programming
+Engineering Economics 3 0 3 24 Year Standing*
+Fundamentals of Electrical A
+Circuits 3 3 4 Physics for Engineers
+GEC Elective 1 3 0 3
+Computer-Aided Drafting 0 3 4 2°4 Year Standing*
+Physical Education 3 2 0 2 Physical Education 2
+
+TOTAL | 17 12 21
+
+PSG for BSCpE
+
+Page 12 of 22
+
+
+
+===== PAGE 13 =====
+No. of Hours
+
+Courses Units | Prerequisites
+Lec | Lab/Field/Drafting au
+Numerical Methods 3 0 3 Differential Equations
+A Data Structures and
+Software Design 3 3 4 Algorithms
+| Purposive Communication 3 0 3
+Fundamentals of Electronic Fundamentals of Electrical
+anaes 3 3 4 rea Hi
+Circuits Circuits
+Life and Works of Rizal 3 0 3
+Physical Education 4 2 0 2
+The Contemporary World 3 0 3
+TOTAL | 20 6 22
+THIRD YEAR
+3rd year — 1st semester
+No. of Hours
+Courses Units | P. isites
+Lec | LabiFieldiDrafting | "> | | “Yo
+BA . Fundamentals of Electronic
+Logic Circuits and Design 3 3 4 Circuits
+i Data Structures and
+Operating Systems 3 0 3 | Algorithms
+Data and Digital 3 0 3 Fundamentals of Electronic
+Communications Circuits
+Programming Logic and
+. Design;
+Introduction to HDL. ° 3 1 Fundamentals of Electronic
+Circuits
+Numerical Methods;
+Feedback and Control Systems 3 0 3 Fundamentals of Electrical
+Circuits
+Fundamentals of Mixed Signals Fundamentals of Electronic
+3 0 3 i
+and Sensors Circuits
+Computer Engineering Drafting Fundamentals of Electronic
+i 0 3 1 eran i
+and Design Circuits
+Cognate / Elective Course 1** 3 3° Year Standing*
+TOTAL | 15 9 21
+
+PSG for BSCpE
+
+Page 13 of 22
+
+
+
+===== PAGE 14 =====
+3rd year — 2nd semester
+
+Courses No. of Hours Units | P: isite
+ni rerequisites
+Lec | Lab/Field/Drafting ea
+Basic Occupational Health and rd a
+Safety 3 0 3 3 Year Standing
+Computer Networks and Data and Digital
+P 3 3 4 eed
+Security | Communications
+Microprocessors 3 3 4 Logic Circuits and Design
+Engineering Data Analysis;
+Methods of Research 2 0 2 Purposive Communication;
+Logic Circuits and Design
+Technopreneurship 3 3 3% Year Standing*
+Ethics 3 3
+CpE Laws and Professional td og
+Practice 2 0 2 3° Year Standing
+Cognate/Elective Course 2** 3 Cognate/Track Course 1
+TOTAL | 19 6 24
+FOURTH YEAR
+4th year — 1st semester
+Courses No. of Hours Unit: Pi isite
+nits rerequisites
+Lec | LabiField/Drafting 4
+Embedded Systems 3 3 4 Microprocessors
+Computer Architecture and
+Organization 3 3 4 Microprocessors
+ope? Technologies in 3 0 3 4” Year Standing*
+. . Microprocessors;
+CpE Practice and Design 1 0 3 1 Methods of Research
+Digital Signal Processing 13 3 4 Feedback and Control Systems
+GEC Elective 2 3 0 3
+Cognate/Elective Course 3** 3 Cognate/Track Course 2
+TOTAL | 15 12 22
+PSG for BSCpE Page 14 of 22
+
+AMC,
+7S
+
+
+===== PAGE 15 =====
+Courses No. of Hours Units | Prerequisites
+Lec | Lab/Field/Drafting
+CpE Practice and Design 2 0 6 2 CpE Practice and Design 1
+Seminars and Fieldtrips 0 3 4 4% Year Standing*
+On the Job Training 3 240°* 3 4th Year Standing*
+GEC Elective 3 3 0 3
+TOTAL; 6 246 9
+
+Suggested Cognates/Electives
+(The program has an option to include additional cognates/electives.)
+
+No. of Hours | No. of
+| Embedded Systems [Lab | LabiFiela/Drafting | Hours
+[Embedded Systems 1_ | 3 |
+Embedded Systems 2 _ 3.
+| Embedded Systems 3 3
+Nicrostectronics Lab abiField/Drafting
+| 3 “|
+_ 3
+3. |
+Lab . .
+| Software Development tt _| LabiField/Drafting -
+| Software Development 1 _ 3.
+Software Development 2 | _ 3
+| Software Development 3 0 — 7 3
+Lab .
+| System and Network Administration _ Lab/Field/Drafting __
+| Syst id Network Administration 1 i 3
+| System and Network Administration 2 LL _ _
+| System and Network Administration 3 5 L 3
+[Lab
+
+Machine Learning
+
+‘Machine Learning 1 i
+
+3
+Machine Learning 2 - LL [3
+Machine Learning 3 3
+OO ) tab | ' i ~T
+Big Data Analytics | Lab/Field/Drafting
+Big Data Analytics 1 __| | 3
+Big Data Analytics 2 3
+_ Big Data Analytics 3 | 3
+Augmented Reality Lab | Lab/Field/Drafting
+Augmented Realiy1 lO 3
+Augmented Reality 2 i 3
+Augmented Reality 3 _. 3 i
+
+PSG for BSCpE Page 15 of 23
+
