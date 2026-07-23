@@ -66,14 +66,3 @@ Index + scraper: [CC0](LICENSE). Linked PDFs remain CHED publications.
 
 - **v1:** CMO metadata index (done)
 - **v2 (planned):** OCR + structured course tables across degree programs
-
-## Course table (OCR)
-
-Build `data/course_program_cmo_ver.csv` from scanned PSG Program of Study pages:
-
-```bash
-uv run python scripts/build_course_program_cmo_ver.py
-uv run pytest tests/test_course_program_cmo_ver.py
-```
-
-Currently seeds **BSCpE / CMO 87 s.2017**. OCR noise remains — treat as draft corpus.
