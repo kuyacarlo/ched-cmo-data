@@ -1,0 +1,60 @@
+year,semester,code,title,lec,lab,total,prereq
+1,1,,Pharmaceutical Botany with Taxonomy,1,1,2,None
+1,1,,Pharmaceutical Inorganic Chemistry (with Qualitative Analysis),2,1,3,None
+1,1,,Perspectives in Pharmacy,2,0,2,None
+1,1,,Pharmaceutical Calculations & Techniques,2,1,3,None
+1,1,,GE Elective 1,3,0,3,None
+1,1,,GE Core 1,3,0,3,None
+1,1,,GE Core 2,3,0,3,None
+1,1,,PE I,2,0,2,None
+1,1,,NSTP 1,3,0,3,None
+1,2,,Pharmaceutical Organic Chemistry,2,1,3,None
+1,2,,Introduction to the Health System,1,0,1,None
+1,2,,"Introduction to Pharmacy Administration, Management and Leadership",2,0,2,None
+1,2,,Human Physiology and Pathophysiology,3,1,4,None
+1,2,,Pharmaceutical Analysis 1 (Quantitative Pharmaceutical Chemistry),2,1,3,None
+1,2,,GE Elective 2,3,0,3,None
+1,2,,GE Core 3,3,0,3,None
+1,2,,PE 2,2,0,2,None
+1,2,,NSTP 2,3,0,3,None
+2,1,,"Pharmaceutical Dosage Forms, Drug Delivery Systems and Medical Devices",2,2,4,Pharmaceutical Calculations & Techniques
+2,1,,"Dispensing I (Dispensing Process, Reading & Interpreting the Prescription and Other Medicine Orders)",1,1,2,Pharmaceutical Calculations & Techniques
+2,1,,Pharmaceutical Biochemistry,2,1,3,Pharmaceutical Organic Chemistry
+2,1,,Physical Pharmacy,2,1,3,"Pharmaceutical Dosage Forms, Drug Delivery Systems and Medical Devices"
+2,1,,Pharmaceutical Microbiology and Parasitology,2,2,4,None
+2,1,,GE Core 4,3,0,3,None
+2,1,,GE Mandated: Life and Works of Rizal,3,0,3,None
+2,1,,PE 3,2,0,2,None
+2,2,,Pharmaceutical and Medicinal Organic Chemistry,2,1,3,Pharmaceutical Organic Chemistry
+2,2,,Pharmacognosy and Plant Chemistry,2,1,3,Pharmaceutical Botany with Taxonomy
+2,2,,Pharmaceutical Analysis 2 (Instrumental Methods of Analysis),2,1,3,Pharmaceutical Analysis 1
+2,2,,Pharmacology 1,3,0,3,Human Physiology and Pathophysiology; Pharmaceutical Microbiology and Parasitology
+2,2,,Pharmacy Informatics,1,1,2,Second Year Standing
+2,2,,GE Core 5,3,0,3,None
+2,2,,GE Elective 3,3,0,3,None
+2,2,,GE Core 6,3,0,3,None
+2,2,,PE 4,2,0,2,None
+3,1,,Biopharmaceutics & Pharmacokinetics,3,0,3,Physical Pharmacy
+3,1,,"Pharmaceutical Manufacturing (with Regulatory Pharmacy, Quality Assurance and cGMP)",2,2,4,Physical Pharmacy
+3,1,,"Dispensing II (Medication related problems, Medication safety, Medication counseling and other Pharmacy services)",2,1,3,"Dispensing I; Pharmaceutical Dosage Forms, Drug Delivery Systems and Medical Devices"
+3,1,,"Drug Discovery, Design & Development",1,0,1,3rd year standing
+3,1,,Pharmacology 2,3,0,3,Pharmacology 1
+3,1,,Clinical Pharmacy and Pharmacotherapeutics 1,3,0,3,Pharmacology 1
+3,1,,Pharmacy Research Methods with Pharmaceutical Statistics,1,1,2,Pharmacy Informatics
+3,1,,Hospital Pharmacy,2,1,3,Dispensing II; 3rd year standing
+3,1,,GE Core 7,3,0,3,None
+3,2,,Pharmaceutical Toxicology,2,1,3,Pharmacology 2
+3,2,,Clinical Pharmacy and Pharmacotherapeutics 2,3,0,3,Clinical Pharmacy and Pharmacotherapeutics 1
+3,2,,Public Health Pharmacy (with Pharmacoepidemiology),3,0,3,Pharmaceutical Microbiology and Parasitology
+3,2,,"Cosmetic Product Development (Cosmetic product development, regulation and safety assessment)",1,1,2,"Pharmaceutical Manufacturing (with Regulatory Pharmacy, Quality Assurance and cGMP)"
+3,2,,Pharmacy Research and Thesis Writing,1,2,3,Pharmacy Research Methods with Pharmaceutical Statistics
+3,2,,Health Technology Assessment (with Pharmacoeconomics),2,0,2,3rd year standing
+3,2,,Social and Administrative Pharmacy,1,0,1,3rd year standing
+3,2,,Pharmaceutical Marketing and Entrepreneurship,2,0,2,None
+3,2,,Legal Pharmacy and Ethics,2,0,2,3rd year standing
+3,2,,GE Core 8,3,0,3,None
+4,1,,Experiential Pharmacy Practice in Institutional Pharmacy,0,2.4,2.4,4th year standing (120 hrs)
+4,1,,Experiential Pharmacy Practice in Public Health and Regulatory Pharmacy,0,3.6,3.6,4th year standing (180 hrs)
+4,1,,Experiential Pharmacy Practice in Community Pharmacy,0,6.0,6.0,4th year standing (300 hrs)
+4,2,,Experiential Pharmacy Practice in Hospital Pharmacy,0,6.0,6.0,4th year standing (300 hrs)
+4,2,,Experiential Pharmacy Practice in Industrial Pharmacy,0,6.0,6.0,4th year standing (300 hrs)

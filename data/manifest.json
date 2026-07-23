@@ -1,0 +1,31 @@
+{
+  "name": "ched-cmo-index",
+  "title": "CHED Memorandum Orders (CMO) Index",
+  "generated_at": "2026-07-23T16:59:23.921350+00:00",
+  "source": "https://legacy.ched.gov.ph/",
+  "source_pattern": "https://legacy.ched.gov.ph/{year}-ched-memorandum-orders/",
+  "row_count": 969,
+  "year_min": 2000,
+  "year_max": 2026,
+  "categories": {
+    "administrative_governance": 363,
+    "curriculum_program": 292,
+    "curriculum_college": 231,
+    "scholarship_student_services": 67,
+    "faculty_development": 14,
+    "research_journals": 2
+  },
+  "category_changes_from_raw": 24,
+  "downloaded": 968,
+  "needs_ocr": 908,
+  "searchable": 60,
+  "files": {
+    "csv": "data/cmo_index.csv",
+    "jsonl": "data/cmo_index.jsonl",
+    "sample_csv": "data/sample/cmo_index.sample.csv"
+  },
+  "notes": [
+    "Derived metadata index. PDF contents remain with CHED; urls point to legacy.ched.gov.ph.",
+    "Program course tables are not included yet (except pharmacy sample)."
+  ]
+}
