@@ -66,3 +66,7 @@ Index + scraper: [CC0](LICENSE). Linked PDFs remain CHED publications.
 
 - **v1:** CMO metadata index (done)
 - **v2 (planned):** OCR + structured course tables across degree programs
+
+## Local finalization note
+
+This isolated copy preserves the CHED CMO metadata dataset for review/archive. Verified locally: the published dataset files load and the manifest row count matches the CSV and JSONL artifacts. Full rescrape/download was not run because it performs live CHED network fetches and creates a multi-GB local PDF cache.
